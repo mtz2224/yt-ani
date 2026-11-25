@@ -1,0 +1,5 @@
+# Runtime requirements (Python 3.11+)
+yt-dlp[default]
+yt-dlp-ejs
+term-image>=0.7,<0.8
+imageio-ffmpeg>=0.5
